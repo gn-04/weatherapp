@@ -1,2 +1,2 @@
 # weatherapp
-retrieves weather data from user specified location using async fetch requests
+retrieves weather data for a user specified location from the OpenWeather API using async fetch requests
